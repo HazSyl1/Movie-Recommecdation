@@ -22,7 +22,10 @@ To run this web application locally, follow these steps:
    ```bash
    git clone https://github.com/your_username/your_repository.git
    ```
-2. Run the app
+2. Run the Notebook for getting the similarity.pkl file
+
+
+3. Run the app
 ```bash
     streamlit run app.py
 ```
